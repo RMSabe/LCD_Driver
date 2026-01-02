@@ -1,3 +1,6 @@
+!!!DEPRECATED!!!
+USE MY OTHER REPOSITORY: 
+
 Generic Alphanumeric LCD Display Driver for Arduino IDE.
 Version 1.0
 
