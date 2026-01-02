@@ -1,5 +1,5 @@
 !!!DEPRECATED!!!
-USE MY OTHER REPOSITORY: 
+USE MY OTHER REPOSITORY: https://github.com/RMSabe/ArduinoIDE_Lib
 
 Generic Alphanumeric LCD Display Driver for Arduino IDE.
 Version 1.0
